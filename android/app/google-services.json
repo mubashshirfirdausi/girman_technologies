@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842905157862",
+    "project_id": "griman-technologies-b5052",
+    "storage_bucket": "griman-technologies-b5052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842905157862:android:c0633a5843b1bff7917b27",
+        "android_client_info": {
+          "package_name": "com.example.girman_technologies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1kg65Nc25whvDZXdJxWzyaBO4IUfyik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
